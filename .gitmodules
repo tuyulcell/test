@@ -1,0 +1,3 @@
+[submodule "DAST"]
+	path = DAST
+	url = https://github.com/romdhoni1107/dast-sast.git
